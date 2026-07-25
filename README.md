@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0365-water-and-jug-problem) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Depth-First Search
 |  |
 | ------- |
