@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0365-water-and-jug-problem) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
