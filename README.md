@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1250-check-if-it-is-a-good-array) |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1250-check-if-it-is-a-good-array) |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Depth-First Search
@@ -43,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
