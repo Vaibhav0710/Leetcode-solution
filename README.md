@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/1406-stone-game-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Vaibhav0710/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
